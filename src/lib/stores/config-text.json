@@ -9,17 +9,5 @@
   "textNote": "Fieldwork was conducted via telephone interviews from 4/5 to 24/5/2023, 12 909 interviews were conducted. Representative sample of business was selected.",
   "textDataAccess": "Access the data",
   "linkDataAccess": "https://europa.eu/eurobarometer/api/deliverable/download/file?deliverableId=88722",
-  "textCountryClick": "Click for more info",
-  "extraInfoText_AL": "Candidate country since 2003",
-  "extraInfoLink_AL": "",
-  "extraInfoText_BA": "",
-  "extraInfoLink_BA": "",
-  "extraInfoText_ME": "Candidate country since 2010",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "Candidate country since 2005",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "Candidate country since 2003",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "Candidate country since 2003",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Click for more info"
 }
