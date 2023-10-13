@@ -1,6 +1,6 @@
 {
-  "heading": "A kis- és középvállalkozások az EU-ban munkaerőhiánnyal küzdenek",
-  "subheading": "A megkérdezett uniós székhelyű kis- és középvállalkozások (kkv-k) 39%-a teljesen vagy részben egyetért azzal, hogy a szakképzettség hiánya hátráltatja vállalatát az üzleti tevékenység zöldítésében",
+  "heading": "Az európai kkv-k a zöld készségek hiányával néznek szembe?",
+  "subheading": "Az EU-ban megkérdezett kis- és középvállalkozások (kkv-k) 39%-a egyetért azzal, hogy a szakképzett munkaerő hiánya hátráltatja vállalkozásukat tevékenységeik környezetbarátabbá tételében.",
   "legend1": "Nincs elérhető adat",
   "tooltip1": "a megkérdezett kkv-k közül",
   "textSourceDescription": "Forrás",
@@ -9,17 +9,5 @@
   "textNote": "A terepmunka 2023. 04. 05. és 2023. 05. 24. között telefonos interjúval történt, 12 909 interjú készült. A vállalkozás reprezentatív mintáját választották ki.",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://europa.eu/eurobarometer/api/deliverable/download/file?deliverableId=88722",
-  "textCountryClick": "További információért kattintson",
-  "extraInfoText_AL": "2003 óta tagjelölt ország",
-  "extraInfoLink_AL": "",
-  "extraInfoText_BA": "",
-  "extraInfoLink_BA": "",
-  "extraInfoText_ME": "2010 óta tagjelölt ország",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "2005 óta tagjelölt ország",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "2003 óta tagjelölt ország",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "2003 óta tagjelölt ország",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "További információért kattintson"
 }

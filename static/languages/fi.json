@@ -1,6 +1,6 @@
 {
-  "heading": "Pienet ja keskisuuret yritykset EU:ssa kohtaavat pulaa osaajista",
-  "subheading": "39 % haastatelluista EU:n pienistä ja keskisuurista yrityksistä (pk-yrityksistä) on täysin tai jossain määrin samaa mieltä siitä, että osaamispula hidastaa yritystä yritystoiminnan viherryttämisessä.",
+  "heading": "Onko eurooppalaisilla pk-yrityksillä pulaa vihreistä taidoista?",
+  "subheading": "EU:ssa kyselyyn vastanneista pienistä ja keskisuurista yrityksistä (pk-yrityksistä) 39 prosenttia on samaa mieltä siitä, että osaamispula hidastaa niiden liiketoimintaa toiminnan viherryttämisessä.",
   "legend1": "Tietoja ei ole saatavilla",
   "tooltip1": "haastatelluista pk-yrityksistä",
   "textSourceDescription": "Lähde",
@@ -9,17 +9,5 @@
   "textNote": "Kenttätyötä tehtiin puhelinhaastatteluilla 5.4.-24.5.2023, haastatteluja tehtiin 12 909. Yrityksestä valittiin edustava näyte.",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://europa.eu/eurobarometer/api/deliverable/download/file?deliverableId=88722",
-  "textCountryClick": "Napsauta saadaksesi lisätietoja",
-  "extraInfoText_AL": "Ehdokasmaa vuodesta 2003",
-  "extraInfoLink_AL": "",
-  "extraInfoText_BA": "",
-  "extraInfoLink_BA": "",
-  "extraInfoText_ME": "Ehdokasmaa vuodesta 2010",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "Ehdokasmaa vuodesta 2005",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "Ehdokasmaa vuodesta 2003",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "Ehdokasmaa vuodesta 2003",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Napsauta saadaksesi lisätietoja"
 }

@@ -1,6 +1,6 @@
 {
-  "heading": "Pequenas e médias empresas na UE enfrentam escassez de competências",
-  "subheading": "39% das pequenas e médias empresas (PME) sediadas na UE entrevistadas concordam total ou parcialmente que a escassez de competências impede as suas empresas de tornar as atividades empresariais mais ecológicas",
+  "heading": "As PME europeias enfrentam uma escassez de competências verdes?",
+  "subheading": "39% das pequenas e médias empresas (PME) inquiridas na UE concordam que a escassez de competências está a atrasar os seus negócios em termos de tornar as suas atividades mais ecológicas.",
   "legend1": "Não há dados disponíveis",
   "tooltip1": "das PME entrevistadas",
   "textSourceDescription": "Fonte",
@@ -9,17 +9,5 @@
   "textNote": "O trabalho de campo foi realizado por meio de entrevistas telefônicas de 05/04 a 24/05/2023, foram realizadas 12.909 entrevistas. Foi selecionada uma amostra representativa de empresas.",
   "textDataAccess": "Acesse os dados",
   "linkDataAccess": "https://europa.eu/eurobarometer/api/deliverable/download/file?deliverableId=88722",
-  "textCountryClick": "Clique para mais informações",
-  "extraInfoText_AL": "País candidato desde 2003",
-  "extraInfoLink_AL": "",
-  "extraInfoText_BA": "",
-  "extraInfoLink_BA": "",
-  "extraInfoText_ME": "País candidato desde 2010",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "País candidato desde 2005",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "País candidato desde 2003",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "País candidato desde 2003",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Clique para mais informações"
 }

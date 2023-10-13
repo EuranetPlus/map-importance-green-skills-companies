@@ -1,6 +1,6 @@
 {
-  "heading": "Kleine und mittlere Unternehmen in der EU sind mit Fachkräftemangel konfrontiert",
-  "subheading": "39 % der befragten kleinen und mittleren Unternehmen (KMU) mit Sitz in der EU stimmen völlig oder eher zu, dass der Fachkräftemangel ihr Unternehmen davon abhält, seine Geschäftsaktivitäten umweltfreundlicher zu gestalten",
+  "heading": "Sind europäische KMU mit einem Mangel an grünen Kompetenzen konfrontiert?",
+  "subheading": "39 % der in der EU befragten kleinen und mittleren Unternehmen (KMU) stimmen zu, dass der Fachkräftemangel ihr Unternehmen bei der Ökologisierung ihrer Aktivitäten behindert.",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "der befragten KMU",
   "textSourceDescription": "Quelle",
@@ -9,17 +9,5 @@
   "textNote": "Die Feldforschung wurde vom 04.05. bis 24.05.2023 mittels Telefoninterviews durchgeführt, es wurden 12.909 Interviews geführt. Es wurde eine repräsentative Stichprobe von Unternehmen ausgewählt.",
   "textDataAccess": "Greifen Sie auf die Daten zu",
   "linkDataAccess": "https://europa.eu/eurobarometer/api/deliverable/download/file?deliverableId=88722",
-  "textCountryClick": "Klicken Sie für weitere Informationen",
-  "extraInfoText_AL": "Kandidatenland seit 2003",
-  "extraInfoLink_AL": "",
-  "extraInfoText_BA": "",
-  "extraInfoLink_BA": "",
-  "extraInfoText_ME": "Kandidatenland seit 2010",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "Kandidatenland seit 2005",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "Kandidatenland seit 2003",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "Kandidatenland seit 2003",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Klicken Sie für weitere Informationen"
 }

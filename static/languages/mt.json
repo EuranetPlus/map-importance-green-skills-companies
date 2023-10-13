@@ -1,7 +1,7 @@
 {
-  "heading": "Intrapriżi żgħar u ta' daqs medju fl-UE li qed jiffaċċjaw nuqqasijiet ta' ħiliet",
-  "subheading": "39 % tal-kumpaniji żgħar u ta’ daqs medju (SME) ibbażati fl-UE intervistati jaqblu totalment jew xi ftit li n-nuqqas ta’ ħiliet iżomm lill-kumpanija tagħhom lura f’attivitajiet ta’ negozju aktar ekoloġiċi",
-  "legend1": "L-ebda dejta disponibbli",
+  "heading": "L-SMEs Ewropej qed jiffaċċjaw nuqqas ta' ħiliet ħodor?",
+  "subheading": "39 % tal-intrapriżi żgħar u ta' daqs medju (SMEs) mistħarrġa fl-UE jaqblu li n-nuqqas ta' ħiliet qed iżżomm in-negozju tagħhom f'termini ta' ekoloġizzazzjoni tal-attivitajiet tagħhom.",
+  "legend1": "Ebda data disponibbli",
   "tooltip1": "tal-SMEs intervistati",
   "textSourceDescription": "Sors",
   "textSource": "Flash Eurobarometer 529",
@@ -9,17 +9,5 @@
   "textNote": "Ix-xogħol fuq il-post sar permezz ta’ intervisti bit-telefon mill-4/5 sal-24/5/2023, saru 12 909 intervista. Intgħażel kampjun rappreżentattiv tan-negozju.",
   "textDataAccess": "Aċċessa għad-data",
   "linkDataAccess": "https://europa.eu/eurobarometer/api/deliverable/download/file?deliverableId=88722",
-  "textCountryClick": "Ikklikkja għal aktar informazzjoni",
-  "extraInfoText_AL": "Pajjiż kandidat mill-2003",
-  "extraInfoLink_AL": "",
-  "extraInfoText_BA": "",
-  "extraInfoLink_BA": "",
-  "extraInfoText_ME": "Pajjiż kandidat mill-2010",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "Pajjiż kandidat mill-2005",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "Pajjiż kandidat mill-2003",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "Pajjiż kandidat mill-2003",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Ikklikkja għal aktar informazzjoni"
 }

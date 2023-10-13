@@ -1,6 +1,6 @@
 {
-  "heading": "Malé a stredné podniky v EÚ čelia nedostatku zručností",
-  "subheading": "39 % opýtaných malých a stredných podnikov (MSP) v EÚ úplne alebo do istej miery súhlasí s tým, že nedostatok zručností brzdí ich spoločnosť v ekologizácii podnikateľských aktivít",
+  "heading": "Čelia európske MSP nedostatku zelených zručností?",
+  "subheading": "39 % malých a stredných podnikov (MSP) opýtaných v EÚ súhlasí s tým, že nedostatok zručností brzdí ich podnikanie, pokiaľ ide o ekologizáciu ich činností.",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltip1": "opýtaného SME",
   "textSourceDescription": "Zdroj",
@@ -9,17 +9,5 @@
   "textNote": "Práca v teréne sa uskutočnila prostredníctvom telefonických rozhovorov od 4. 5. do 24. 5. 2023, uskutočnilo sa 12 909 rozhovorov. Bola vybraná reprezentatívna vzorka podnikov.",
   "textDataAccess": "Prístup k údajom",
   "linkDataAccess": "https://europa.eu/eurobarometer/api/deliverable/download/file?deliverableId=88722",
-  "textCountryClick": "Kliknite pre viac informácií",
-  "extraInfoText_AL": "Kandidátska krajina od roku 2003",
-  "extraInfoLink_AL": "",
-  "extraInfoText_BA": "",
-  "extraInfoLink_BA": "",
-  "extraInfoText_ME": "Kandidátska krajina od roku 2010",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "Kandidátska krajina od roku 2005",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "Kandidátska krajina od roku 2003",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "Kandidátska krajina od roku 2003",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Kliknite pre viac informácií"
 }

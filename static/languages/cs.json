@@ -1,6 +1,6 @@
 {
-  "heading": "Malé a střední podniky v EU čelí nedostatku dovedností",
-  "subheading": "39 % dotázaných malých a středních společností (MSP) se sídlem v EU zcela nebo částečně souhlasí s tím, že nedostatek dovedností brzdí jejich společnost v ekologizaci podnikatelských aktivit",
+  "heading": "Potýkají se evropské MSP s nedostatkem zelených dovedností?",
+  "subheading": "39 % malých a středních podniků (MSP) dotázaných v EU souhlasí s tím, že nedostatek dovedností brzdí jejich podnikání, pokud jde o ekologizaci jejich činností.",
   "legend1": "Nejsou k dispozici žádné údaje",
   "tooltip1": "dotazovaného SME",
   "textSourceDescription": "Zdroj",
@@ -9,17 +9,5 @@
   "textNote": "Práce v terénu probíhaly prostřednictvím telefonických rozhovorů od 4. 5. do 24. 5. 2023, bylo provedeno 12 909 rozhovorů. Byl vybrán reprezentativní vzorek firmy.",
   "textDataAccess": "Přístup k datům",
   "linkDataAccess": "https://europa.eu/eurobarometer/api/deliverable/download/file?deliverableId=88722",
-  "textCountryClick": "Klikněte pro více informací",
-  "extraInfoText_AL": "Kandidátská země od roku 2003",
-  "extraInfoLink_AL": "",
-  "extraInfoText_BA": "",
-  "extraInfoLink_BA": "",
-  "extraInfoText_ME": "Kandidátská země od roku 2010",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "Kandidátská země od roku 2005",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "Kandidátská země od roku 2003",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "Kandidátská země od roku 2003",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Klikněte pro více informací"
 }

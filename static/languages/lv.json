@@ -1,6 +1,6 @@
 {
-  "heading": "Mazie un vidējie uzņēmumi ES saskaras ar prasmju trūkumu",
-  "subheading": "39% aptaujāto ES mazo un vidējo uzņēmumu (MVU) pilnībā vai daļēji piekrīt, ka prasmju trūkums kavē viņu uzņēmumus videi draudzīgākas uzņēmējdarbības veikšanā.",
+  "heading": "Vai Eiropas MVU saskaras ar zaļo prasmju trūkumu?",
+  "subheading": "39 % ES aptaujāto mazo un vidējo uzņēmumu (MVU) piekrīt, ka prasmju trūkums kavē viņu uzņēmējdarbību, lai padarītu viņu darbību videi draudzīgāku.",
   "legend1": "Nav pieejami dati",
   "tooltip1": "aptaujāto MVU",
   "textSourceDescription": "Avots",
@@ -9,17 +9,5 @@
   "textNote": "Lauku darbs tika veikts ar telefonintervijas palīdzību no 05.04.2023.-24.05.2023., tika veiktas 12 909 intervijas. Tika atlasīts reprezentatīvs uzņēmuma paraugs.",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://europa.eu/eurobarometer/api/deliverable/download/file?deliverableId=88722",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas",
-  "extraInfoText_AL": "Kandidātvalsts kopš 2003. gada",
-  "extraInfoLink_AL": "",
-  "extraInfoText_BA": "",
-  "extraInfoLink_BA": "",
-  "extraInfoText_ME": "Kandidātvalsts kopš 2010. gada",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "Kandidātvalsts kopš 2005. gada",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "Kandidātvalsts kopš 2003. gada",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "Kandidātvalsts kopš 2003. gada",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
 }

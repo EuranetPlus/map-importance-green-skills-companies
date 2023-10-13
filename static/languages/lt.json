@@ -1,6 +1,6 @@
 {
-  "heading": "Mažos ir vidutinės įmonės ES susiduria su įgūdžių trūkumu",
-  "subheading": "39 % apklaustų ES mažų ir vidutinių įmonių (MVĮ) visiškai arba iš dalies sutinka, kad įgūdžių trūkumas stabdo jų įmonių veiklą ekologiškesnėse verslo srityse.",
+  "heading": "Ar Europos MVĮ susiduria su ekologiškų įgūdžių trūkumu?",
+  "subheading": "39 % ES apklaustų mažųjų ir vidutinių įmonių (MVĮ) sutinka, kad įgūdžių trūkumas stabdo jų verslą ekologiškesnio veiklos požiūriu.",
   "legend1": "Nėra duomenų",
   "tooltip1": "apklaustų MVĮ",
   "textSourceDescription": "Šaltinis",
@@ -9,17 +9,5 @@
   "textNote": "Iš 2023-04-05 iki 2023-05-24 buvo atlikti 12 909 pokalbiai telefonu. Buvo atrinkta reprezentatyvi verslo imtis.",
   "textDataAccess": "Pasiekite duomenis",
   "linkDataAccess": "https://europa.eu/eurobarometer/api/deliverable/download/file?deliverableId=88722",
-  "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos",
-  "extraInfoText_AL": "Šalis kandidatė nuo 2003 m",
-  "extraInfoLink_AL": "",
-  "extraInfoText_BA": "",
-  "extraInfoLink_BA": "",
-  "extraInfoText_ME": "Šalis kandidatė nuo 2010 m",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "Šalis kandidatė nuo 2005 m",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "Šalis kandidatė nuo 2003 m",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "Šalis kandidatė nuo 2003 m",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

@@ -1,6 +1,6 @@
 {
-  "heading": "Mala in srednje velika podjetja v EU se soočajo s pomanjkanjem spretnosti",
-  "subheading": "39 % anketiranih malih in srednje velikih podjetij (MSP) s sedežem v EU se v celoti ali deloma strinja, da pomanjkanje znanja in spretnosti zavira njihovo podjetje pri ozelenjevanju poslovnih dejavnosti",
+  "heading": "Ali se evropska MSP soočajo s pomanjkanjem zelenih znanj in znanj?",
+  "subheading": "39 % malih in srednje velikih podjetij (MSP), vključenih v raziskavo v EU, se strinja, da pomanjkanje znanj in spretnosti ovira njihovo poslovanje v smislu okolju prijaznejših dejavnosti.",
   "legend1": "Ni podatkov",
   "tooltip1": "anketiranih MSP",
   "textSourceDescription": "Vir",
@@ -9,17 +9,5 @@
   "textNote": "Terensko delo je potekalo preko telefonskih intervjujev od 4. 5. do 24. 5. 2023, opravljenih je bilo 12 909 intervjujev. Izbran je bil reprezentativni vzorec poslovanja.",
   "textDataAccess": "Dostopajte do podatkov",
   "linkDataAccess": "https://europa.eu/eurobarometer/api/deliverable/download/file?deliverableId=88722",
-  "textCountryClick": "Kliknite za več informacij",
-  "extraInfoText_AL": "Država kandidatka od leta 2003",
-  "extraInfoLink_AL": "",
-  "extraInfoText_BA": "",
-  "extraInfoLink_BA": "",
-  "extraInfoText_ME": "Država kandidatka od leta 2010",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "Država kandidatka od leta 2005",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "Država kandidatka od leta 2003",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "Država kandidatka od leta 2003",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Kliknite za več informacij"
 }

@@ -1,6 +1,6 @@
 {
-  "heading": "Mala i srednja poduzeća u EU suočena s nedostatkom vještina",
-  "subheading": "39% intervjuiranih malih i srednjih poduzeća (SME) sa sjedištem u EU-u u potpunosti se ili donekle slaže da nedostatak vještina koči njihovu tvrtku u ozelenjavanju poslovnih aktivnosti",
+  "heading": "Suočavaju li se europska mala i srednja poduzeća s nedostatkom zelenih vještina?",
+  "subheading": "39 % malih i srednjih poduzeća (MSP) ispitanih u EU-u slaže se da nedostatak vještina koči njihovo poslovanje u smislu ozelenjavanja njihovih aktivnosti.",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "intervjuiranih malih i srednjih poduzeća",
   "textSourceDescription": "Izvor",
@@ -9,17 +9,5 @@
   "textNote": "Terenski rad je obavljen putem telefonskih razgovora od 5. 4. do 24. 5. 2023. godine, obavljeno je 12 909 razgovora. Odabran je reprezentativni uzorak poslovanja.",
   "textDataAccess": "Pristupite podacima",
   "linkDataAccess": "https://europa.eu/eurobarometer/api/deliverable/download/file?deliverableId=88722",
-  "textCountryClick": "Kliknite za više informacija",
-  "extraInfoText_AL": "Država kandidat od 2003",
-  "extraInfoLink_AL": "",
-  "extraInfoText_BA": "",
-  "extraInfoLink_BA": "",
-  "extraInfoText_ME": "Država kandidat od 2010",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "Država kandidat od 2005",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "Država kandidat od 2003",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "Država kandidat od 2003",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Kliknite za više informacija"
 }

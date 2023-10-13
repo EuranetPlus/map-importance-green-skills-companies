@@ -1,6 +1,6 @@
 {
-  "heading": "Las pequeñas y medianas empresas de la UE se enfrentan a una escasez de cualificaciones",
-  "subheading": "El 39% de las pequeñas y medianas empresas (PYME) con sede en la UE entrevistadas están total o parcialmente de acuerdo en que la escasez de habilidades impide que sus empresas realicen actividades comerciales más ecológicas.",
+  "heading": "¿Se enfrentan las pymes europeas a una escasez de capacidades verdes?",
+  "subheading": "El 39% de las pequeñas y medianas empresas (PYME) encuestadas en la UE coinciden en que la escasez de habilidades está frenando sus negocios en términos de ecologización de sus actividades.",
   "legend1": "Datos no disponibles",
   "tooltip1": "de PYME entrevistadas",
   "textSourceDescription": "Fuente",
@@ -9,17 +9,5 @@
   "textNote": "El trabajo de campo se realizó mediante entrevistas telefónicas del 4/5 al 24/5/2023, se realizaron 12 909 entrevistas. Se seleccionó una muestra representativa de empresas.",
   "textDataAccess": "Accede a los datos",
   "linkDataAccess": "https://europa.eu/eurobarometer/api/deliverable/download/file?deliverableId=88722",
-  "textCountryClick": "Haga clic para más información",
-  "extraInfoText_AL": "País candidato desde 2003",
-  "extraInfoLink_AL": "",
-  "extraInfoText_BA": "",
-  "extraInfoLink_BA": "",
-  "extraInfoText_ME": "País candidato desde 2010",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "País candidato desde 2005",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "País candidato desde 2003",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "País candidato desde 2003",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Haga clic para más información"
 }

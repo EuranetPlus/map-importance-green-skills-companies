@@ -1,6 +1,6 @@
 {
-  "heading": "Kleine en middelgrote ondernemingen in de EU kampen met een tekort aan vaardigheden",
-  "subheading": "39% van de ondervraagde, in de EU gevestigde kleine en middelgrote bedrijven (KMO's) zijn het er geheel of gedeeltelijk mee eens dat tekorten aan vaardigheden hun bedrijf ervan weerhouden hun bedrijfsactiviteiten te vergroenen",
+  "heading": "Wordt het Europese MKB geconfronteerd met een tekort aan groene vaardigheden?",
+  "subheading": "39% van de ondervraagde kleine en middelgrote ondernemingen (kmo's) in de EU is het ermee eens dat tekorten aan vaardigheden hun bedrijf belemmeren bij het vergroenen van hun activiteiten.",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "van het geïnterviewde MKB",
   "textSourceDescription": "Bron",
@@ -9,17 +9,5 @@
   "textNote": "Het veldwerk werd uitgevoerd via telefonische interviews van 5 april tot 24 mei 2023. Er werden 12 909 interviews afgenomen. Er werd een representatieve steekproef van bedrijven geselecteerd.",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://europa.eu/eurobarometer/api/deliverable/download/file?deliverableId=88722",
-  "textCountryClick": "Klik voor meer informatie",
-  "extraInfoText_AL": "Kandidaat-lidstaat sinds 2003",
-  "extraInfoLink_AL": "",
-  "extraInfoText_BA": "",
-  "extraInfoLink_BA": "",
-  "extraInfoText_ME": "Kandidaat-lidstaat sinds 2010",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "Kandidaat-lidstaat sinds 2005",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "Kandidaat-lidstaat sinds 2003",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "Kandidaat-lidstaat sinds 2003",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Klik voor meer informatie"
 }

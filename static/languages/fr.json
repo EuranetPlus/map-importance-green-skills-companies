@@ -1,6 +1,6 @@
 {
-  "heading": "Les petites et moyennes entreprises de l’UE confrontées à une pénurie de compétences",
-  "subheading": "39 % des petites et moyennes entreprises (PME) basées dans l'UE interrogées sont totalement ou plutôt d'accord sur le fait que la pénurie de compétences empêche leur entreprise d'écologiser ses activités commerciales.",
+  "heading": "Les PME européennes sont-elles confrontées à une pénurie de compétences vertes ?",
+  "subheading": "39 % des petites et moyennes entreprises (PME) interrogées dans l'UE conviennent que le manque de compétences freine leur activité en termes d'écologisation de leurs activités.",
   "legend1": "Pas de données disponibles",
   "tooltip1": "des PME interrogées",
   "textSourceDescription": "Source",
@@ -9,17 +9,5 @@
   "textNote": "Le travail de terrain a été réalisé via des entretiens téléphoniques du 4/5 au 24/5/2023, 12 909 entretiens ont été réalisés. Un échantillon représentatif d’entreprises a été sélectionné.",
   "textDataAccess": "Accéder aux données",
   "linkDataAccess": "https://europa.eu/eurobarometer/api/deliverable/download/file?deliverableId=88722",
-  "textCountryClick": "Cliquez pour plus d'informations",
-  "extraInfoText_AL": "Pays candidat depuis 2003",
-  "extraInfoLink_AL": "",
-  "extraInfoText_BA": "",
-  "extraInfoLink_BA": "",
-  "extraInfoText_ME": "Pays candidat depuis 2010",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "Pays candidat depuis 2005",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "Pays candidat depuis 2003",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "Pays candidat depuis 2003",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Cliquez pour plus d'informations"
 }
