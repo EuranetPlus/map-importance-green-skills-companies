@@ -1,13 +1,13 @@
 {
-  "heading": "¿Se enfrentan las pymes europeas a una escasez de capacidades verdes?",
-  "subheading": "El 39% de las pequeñas y medianas empresas (PYME) encuestadas en la UE coinciden en que la escasez de habilidades está frenando sus negocios en términos de ecologización de sus actividades.",
-  "legend1": "Datos no disponibles",
-  "tooltip1": "de PYME entrevistadas",
+  "heading": "¿Se enfrentan las PYMES europeas a una escasez de competencias verdes?",
+  "subheading": "El 39% de las pequeñas y medianas empresas (PYME) encuestadas en la UE coinciden en que la escasez de habilidades está frenando sus negocios en términos de ecologizar sus actividades.",
+  "legend1": "No hay datos disponibles",
+  "tooltip1": "de las PYMES entrevistadas",
   "textSourceDescription": "Fuente",
-  "textSource": "Flash Eurobarómetro 529",
+  "textSource": "Eurobarómetro Flash 529",
   "textNoteDescription": "Nota",
-  "textNote": "El trabajo de campo se realizó mediante entrevistas telefónicas del 4/5 al 24/5/2023, se realizaron 12 909 entrevistas. Se seleccionó una muestra representativa de empresas.",
-  "textDataAccess": "Accede a los datos",
-  "linkDataAccess": "https://europa.eu/eurobarometer/api/deliverable/download/file?deliverableId=88722",
+  "textNote": "El trabajo de campo se realizó mediante entrevistas telefónicas del 4/5 al 24/5/2023, con un total de 12 909 entrevistas. Se seleccionó una muestra representativa de empresas.",
+  "textDataAccess": "Acceder a los datos",
+  "linkDataAccess": "https://europa.eu/eurobarómetro/api/deliverable/download/file?deliverableId=88722",
   "textCountryClick": "Haga clic para más información"
 }

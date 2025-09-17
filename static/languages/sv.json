@@ -1,13 +1,13 @@
 {
-  "heading": "Står europeiska små och medelstora företag inför en brist på grön kompetens?",
-  "subheading": "39 % av de små och medelstora företagen (SMF) som tillfrågades i EU håller med om att kompetensbrist håller tillbaka deras verksamhet när det gäller att göra deras verksamhet grönare.",
-  "legend1": "Ingen data tillgänglig",
-  "tooltip1": "intervjuade små och medelstora företag",
+  "heading": "Har europeiska små och medelstora företag brist på grön kompetens?",
+  "subheading": "39 % av de små och medelstora företagen (SMF) som deltog i undersökningen i EU håller med om att kompetensbrist hämmar deras möjligheter att göra sin verksamhet grönare.",
+  "legend1": "Inga data tillgängliga",
+  "tooltip1": "av intervjuade små och medelstora företag",
   "textSourceDescription": "Källa",
   "textSource": "Flash Eurobarometer 529",
   "textNoteDescription": "Notera",
-  "textNote": "Fältarbete genomfördes via telefonintervjuer från 4/5 till 24/5/2023, 12 909 intervjuer genomfördes. Ett representativt urval av företag valdes ut.",
-  "textDataAccess": "Få åtkomst till data",
+  "textNote": "Fältarbetet genomfördes via telefonintervjuer från 4/5 till 24/5 2023, 12 909 intervjuer genomfördes. Ett representativt urval av företag valdes ut.",
+  "textDataAccess": "Åtkomst till data",
   "linkDataAccess": "https://europa.eu/eurobarometer/api/deliverable/download/file?deliverableId=88722",
-  "textCountryClick": "Klicka för mer info"
+  "textCountryClick": "Klicka för mer information"
 }

@@ -1,13 +1,13 @@
 {
   "heading": "Onko eurooppalaisilla pk-yrityksillä pulaa vihreistä taidoista?",
-  "subheading": "EU:ssa kyselyyn vastanneista pienistä ja keskisuurista yrityksistä (pk-yrityksistä) 39 prosenttia on samaa mieltä siitä, että osaamispula hidastaa niiden liiketoimintaa toiminnan viherryttämisessä.",
-  "legend1": "Tietoja ei ole saatavilla",
+  "subheading": "EU:ssa kyselyyn vastanneista pienistä ja keskisuurista yrityksistä (pk-yrityksistä) 39 % on samaa mieltä siitä, että osaamispula haittaa heidän yrityksiään toiminnan viherryttämisessä.",
+  "legend1": "Ei tietoja saatavilla",
   "tooltip1": "haastatelluista pk-yrityksistä",
   "textSourceDescription": "Lähde",
   "textSource": "Flash Eurobarometri 529",
   "textNoteDescription": "Huomautus",
-  "textNote": "Kenttätyötä tehtiin puhelinhaastatteluilla 5.4.-24.5.2023, haastatteluja tehtiin 12 909. Yrityksestä valittiin edustava näyte.",
+  "textNote": "Kenttätyö tehtiin puhelinhaastatteluilla 5.4.–24.5.2023, yhteensä 12 909 haastattelua. Yritysten otos oli edustava.",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://europa.eu/eurobarometer/api/deliverable/download/file?deliverableId=88722",
-  "textCountryClick": "Napsauta saadaksesi lisätietoja"
+  "textCountryClick": "Klikkaa saadaksesi lisätietoja"
 }

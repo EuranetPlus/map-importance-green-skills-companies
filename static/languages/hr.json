@@ -1,13 +1,13 @@
 {
   "heading": "Suočavaju li se europska mala i srednja poduzeća s nedostatkom zelenih vještina?",
-  "subheading": "39 % malih i srednjih poduzeća (MSP) ispitanih u EU-u slaže se da nedostatak vještina koči njihovo poslovanje u smislu ozelenjavanja njihovih aktivnosti.",
+  "subheading": "39% anketiranih malih i srednjih poduzeća (MSP) u EU slaže se da nedostatak vještina koči njihovo poslovanje u smislu ozelenjavanja njihovih aktivnosti.",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "intervjuiranih malih i srednjih poduzeća",
   "textSourceDescription": "Izvor",
   "textSource": "Flash Eurobarometar 529",
   "textNoteDescription": "Bilješka",
-  "textNote": "Terenski rad je obavljen putem telefonskih razgovora od 5. 4. do 24. 5. 2023. godine, obavljeno je 12 909 razgovora. Odabran je reprezentativni uzorak poslovanja.",
-  "textDataAccess": "Pristupite podacima",
+  "textNote": "Terenski rad proveden je putem telefonskih intervjua od 4.5. do 24.5.2023., provedeno je 12 909 intervjua. Odabran je reprezentativni uzorak poduzeća.",
+  "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://europa.eu/eurobarometer/api/deliverable/download/file?deliverableId=88722",
   "textCountryClick": "Kliknite za više informacija"
 }

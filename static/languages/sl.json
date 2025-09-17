@@ -1,13 +1,13 @@
 {
-  "heading": "Ali se evropska MSP soočajo s pomanjkanjem zelenih znanj in znanj?",
-  "subheading": "39 % malih in srednje velikih podjetij (MSP), vključenih v raziskavo v EU, se strinja, da pomanjkanje znanj in spretnosti ovira njihovo poslovanje v smislu okolju prijaznejših dejavnosti.",
-  "legend1": "Ni podatkov",
-  "tooltip1": "anketiranih MSP",
+  "heading": "Ali se evropska mala in srednje velika podjetja soočajo s pomanjkanjem zelenih znanj in spretnosti?",
+  "subheading": "39 % anketiranih malih in srednje velikih podjetij (MSP) v EU se strinja, da pomanjkanje znanj in spretnosti ovira njihovo poslovanje pri ozelenitvi njihovih dejavnosti.",
+  "legend1": "Ni na voljo podatkov",
+  "tooltip1": "anketiranih malih in srednje velikih podjetij",
   "textSourceDescription": "Vir",
   "textSource": "Flash Eurobarometer 529",
   "textNoteDescription": "Opomba",
-  "textNote": "Terensko delo je potekalo preko telefonskih intervjujev od 4. 5. do 24. 5. 2023, opravljenih je bilo 12 909 intervjujev. Izbran je bil reprezentativni vzorec poslovanja.",
-  "textDataAccess": "Dostopajte do podatkov",
+  "textNote": "Terensko delo je bilo izvedeno prek telefonskih intervjujev od 4. 5. do 24. 5. 2023, opravljenih je bilo 12 909 intervjujev. Izbran je bil reprezentativen vzorec podjetij.",
+  "textDataAccess": "Dostop do podatkov",
   "linkDataAccess": "https://europa.eu/eurobarometer/api/deliverable/download/file?deliverableId=88722",
   "textCountryClick": "Kliknite za več informacij"
 }

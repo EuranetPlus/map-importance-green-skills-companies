@@ -1,12 +1,12 @@
 {
-  "heading": "Čelia európske MSP nedostatku zelených zručností?",
-  "subheading": "39 % malých a stredných podnikov (MSP) opýtaných v EÚ súhlasí s tým, že nedostatok zručností brzdí ich podnikanie, pokiaľ ide o ekologizáciu ich činností.",
+  "heading": "Čelia európske malé a stredné podniky nedostatku zelených zručností?",
+  "subheading": "39 % opýtaných malých a stredných podnikov (MSP) v EÚ súhlasí s tým, že nedostatok zručností brzdí ich podnikanie z hľadiska ekologizácie ich aktivít.",
   "legend1": "Nie sú k dispozícii žiadne údaje",
-  "tooltip1": "opýtaného SME",
+  "tooltip1": "oslovených malých a stredných podnikov",
   "textSourceDescription": "Zdroj",
   "textSource": "Bleskový Eurobarometer 529",
   "textNoteDescription": "Poznámka",
-  "textNote": "Práca v teréne sa uskutočnila prostredníctvom telefonických rozhovorov od 4. 5. do 24. 5. 2023, uskutočnilo sa 12 909 rozhovorov. Bola vybraná reprezentatívna vzorka podnikov.",
+  "textNote": "Terénny výskum sa uskutočnil prostredníctvom telefonických rozhovorov od 4. 5. do 24. 5. 2023, bolo vykonaných 12 909 rozhovorov. Bola vybraná reprezentatívna vzorka podnikov.",
   "textDataAccess": "Prístup k údajom",
   "linkDataAccess": "https://europa.eu/eurobarometer/api/deliverable/download/file?deliverableId=88722",
   "textCountryClick": "Kliknite pre viac informácií"

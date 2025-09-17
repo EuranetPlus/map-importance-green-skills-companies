@@ -1,13 +1,13 @@
 {
   "heading": "Vai Eiropas MVU saskaras ar zaļo prasmju trūkumu?",
-  "subheading": "39 % ES aptaujāto mazo un vidējo uzņēmumu (MVU) piekrīt, ka prasmju trūkums kavē viņu uzņēmējdarbību, lai padarītu viņu darbību videi draudzīgāku.",
-  "legend1": "Nav pieejami dati",
-  "tooltip1": "aptaujāto MVU",
+  "subheading": "39 % aptaujāto mazo un vidējo uzņēmumu (MVU) ES piekrīt, ka prasmju trūkums kavē viņu uzņēmumu spēju padarīt savu darbību videi draudzīgāku.",
+  "legend1": "Dati nav pieejami",
+  "tooltip1": "intervēto MVU",
   "textSourceDescription": "Avots",
-  "textSource": "Flash Eurobarometer 529",
+  "textSource": "Eirobarometra zibatmiņa 529",
   "textNoteDescription": "Piezīme",
-  "textNote": "Lauku darbs tika veikts ar telefonintervijas palīdzību no 05.04.2023.-24.05.2023., tika veiktas 12 909 intervijas. Tika atlasīts reprezentatīvs uzņēmuma paraugs.",
+  "textNote": "Lauka darbs tika veikts, izmantojot telefona intervijas no 2023. gada 5. aprīļa līdz 24. maijam, tika veiktas 12 909 intervijas. Tika izvēlēts reprezentatīvs uzņēmumu paraugs.",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://europa.eu/eurobarometer/api/deliverable/download/file?deliverableId=88722",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
+  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

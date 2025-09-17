@@ -1,13 +1,13 @@
 {
-  "heading": "Czy europejskie MŚP borykają się z niedoborem umiejętności ekologicznych?",
-  "subheading": "39% małych i średnich przedsiębiorstw (MŚP) ankietowanych w UE zgadza się, że niedobory wykwalifikowanej siły roboczej powstrzymują ich przedsiębiorstwa pod względem ekologizacji ich działalności.",
+  "heading": "Czy europejskie MŚP borykają się z niedoborem zielonych umiejętności?",
+  "subheading": "39% małych i średnich przedsiębiorstw (MŚP) objętych badaniem w UE zgadza się, że niedobory wykwalifikowanej kadry hamują rozwój ich działalności w kierunku większej ekologii.",
   "legend1": "Brak dostępnych danych",
-  "tooltip1": "MŚP, z którymi przeprowadzono wywiady",
+  "tooltip1": "ankietowanych MŚP",
   "textSourceDescription": "Źródło",
-  "textSource": "Flashowe badanie Eurobarometru 529",
+  "textSource": "Flash Eurobarometr 529",
   "textNoteDescription": "Notatka",
-  "textNote": "Prace terenowe przeprowadzono w formie wywiadów telefonicznych w dniach 4.05. – 24.05.2023 r., przeprowadzono 12 909 wywiadów. Wybrano reprezentatywną próbę przedsiębiorstw.",
-  "textDataAccess": "Uzyskaj dostęp do danych",
-  "linkDataAccess": "https://europa.eu/eurobarometr/api/deliverable/download/file?deliverableId=88722",
+  "textNote": "Badania terenowe przeprowadzono za pomocą wywiadów telefonicznych w dniach od 4.05 do 24.05.2023 r., przeprowadzono 12 909 wywiadów. Wybrano reprezentatywną próbę przedsiębiorstw.",
+  "textDataAccess": "Dostęp do danych",
+  "linkDataAccess": "https://europa.eu/eurobarometer/api/deliverable/download/file?deliverableId=88722",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

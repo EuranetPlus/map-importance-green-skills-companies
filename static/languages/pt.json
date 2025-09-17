@@ -1,12 +1,12 @@
 {
-  "heading": "As PME europeias enfrentam uma escassez de competências verdes?",
-  "subheading": "39% das pequenas e médias empresas (PME) inquiridas na UE concordam que a escassez de competências está a atrasar os seus negócios em termos de tornar as suas atividades mais ecológicas.",
-  "legend1": "Não há dados disponíveis",
-  "tooltip1": "das PME entrevistadas",
+  "heading": "As PMEs europeias estão enfrentando uma escassez de habilidades verdes?",
+  "subheading": "39% das pequenas e médias empresas (PMEs) pesquisadas na UE concordam que a escassez de habilidades está prejudicando seus negócios em termos de ecologização de suas atividades.",
+  "legend1": "Nenhum dado disponível",
+  "tooltip1": "de PME entrevistadas",
   "textSourceDescription": "Fonte",
   "textSource": "Eurobarómetro Flash 529",
   "textNoteDescription": "Observação",
-  "textNote": "O trabalho de campo foi realizado por meio de entrevistas telefônicas de 05/04 a 24/05/2023, foram realizadas 12.909 entrevistas. Foi selecionada uma amostra representativa de empresas.",
+  "textNote": "O trabalho de campo foi realizado por meio de entrevistas telefônicas de 4/5 a 24/5/2023, totalizando 12.909 entrevistas. Uma amostra representativa de empresas foi selecionada.",
   "textDataAccess": "Acesse os dados",
   "linkDataAccess": "https://europa.eu/eurobarometer/api/deliverable/download/file?deliverableId=88722",
   "textCountryClick": "Clique para mais informações"

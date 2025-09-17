@@ -1,13 +1,13 @@
 {
-  "heading": "Az európai kkv-k a zöld készségek hiányával néznek szembe?",
-  "subheading": "Az EU-ban megkérdezett kis- és középvállalkozások (kkv-k) 39%-a egyetért azzal, hogy a szakképzett munkaerő hiánya hátráltatja vállalkozásukat tevékenységeik környezetbarátabbá tételében.",
-  "legend1": "Nincs elérhető adat",
+  "heading": "Vajon az európai kkv-k zöld készségek hiányával küzdenek?",
+  "subheading": "Az EU-ban megkérdezett kis- és középvállalkozások (kkv-k) 39%-a egyetért abban, hogy a szakemberhiány visszafogja vállalkozásaikat tevékenységeik zölddé tétele terén.",
+  "legend1": "Nincsenek elérhető adatok",
   "tooltip1": "a megkérdezett kkv-k közül",
   "textSourceDescription": "Forrás",
-  "textSource": "Flash Eurobarometer 529",
-  "textNoteDescription": "jegyzet",
-  "textNote": "A terepmunka 2023. 04. 05. és 2023. 05. 24. között telefonos interjúval történt, 12 909 interjú készült. A vállalkozás reprezentatív mintáját választották ki.",
+  "textSource": "529. számú Eurobarométer gyorsfelmérés",
+  "textNoteDescription": "Jegyzet",
+  "textNote": "A terepmunka telefonos interjúk útján történt 2023. április 5. és május 24. között, 12 909 interjút készítettünk. A vállalkozások reprezentatív mintáját választottuk ki.",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://europa.eu/eurobarometer/api/deliverable/download/file?deliverableId=88722",
-  "textCountryClick": "További információért kattintson"
+  "textCountryClick": "Kattintson a további információkért"
 }

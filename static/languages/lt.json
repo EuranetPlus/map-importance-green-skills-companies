@@ -1,13 +1,13 @@
 {
-  "heading": "Ar Europos MVĮ susiduria su ekologiškų įgūdžių trūkumu?",
-  "subheading": "39 % ES apklaustų mažųjų ir vidutinių įmonių (MVĮ) sutinka, kad įgūdžių trūkumas stabdo jų verslą ekologiškesnio veiklos požiūriu.",
+  "heading": "Ar Europos MVĮ susiduria su žaliųjų įgūdžių trūkumu?",
+  "subheading": "39 proc. apklaustų mažų ir vidutinių įmonių (MVĮ) ES sutinka, kad įgūdžių trūkumas trukdo jų verslui ekologiškai veikti.",
   "legend1": "Nėra duomenų",
   "tooltip1": "apklaustų MVĮ",
   "textSourceDescription": "Šaltinis",
-  "textSource": "Flash Eurobarometer 529",
+  "textSource": "Greitoji „Eurobarometro“ apklausa Nr. 529",
   "textNoteDescription": "Pastaba",
-  "textNote": "Iš 2023-04-05 iki 2023-05-24 buvo atlikti 12 909 pokalbiai telefonu. Buvo atrinkta reprezentatyvi verslo imtis.",
-  "textDataAccess": "Pasiekite duomenis",
+  "textNote": "Lauko darbas buvo atliktas telefoninių pokalbių būdu nuo 2023 m. balandžio 5 d. iki gegužės 24 d., buvo atlikta 12 909 interviu. Buvo pasirinkta reprezentatyvi verslo imtis.",
+  "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://europa.eu/eurobarometer/api/deliverable/download/file?deliverableId=88722",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Står europæiske SMV'er over for mangel på grønne kvalifikationer?",
-  "subheading": "39 % af de adspurgte små og mellemstore virksomheder (SMV'er) i EU er enige om, at mangel på kvalifikationer holder deres forretning tilbage med hensyn til at gøre deres aktiviteter grønnere.",
-  "legend1": "Ingen tilgængelig data",
-  "tooltip1": "af interviewede SMV",
+  "heading": "Står europæiske SMV'er over for mangel på grønne færdigheder?",
+  "subheading": "39 % af de små og mellemstore virksomheder (SMV'er) i EU er enige i, at mangel på kvalificeret arbejdskraft hæmmer deres forretning i forhold til at gøre deres aktiviteter grønnere.",
+  "legend1": "Ingen data tilgængelige",
+  "tooltip1": "af interviewede SMV'er",
   "textSourceDescription": "Kilde",
   "textSource": "Flash Eurobarometer 529",
-  "textNoteDescription": "Bemærk",
-  "textNote": "Feltarbejde blev udført via telefoninterviews fra 4/5 til 24/5/2023, 12 909 interviews blev udført. Repræsentativt udvalg af virksomheder blev udvalgt.",
-  "textDataAccess": "Få adgang til data",
+  "textNoteDescription": "Note",
+  "textNote": "Feltarbejdet blev udført via telefoninterviews fra d. 4/5 til d. 24/5/2023, og der blev gennemført 12.909 interviews. Der blev udvalgt en repræsentativ stikprøve af virksomheder.",
+  "textDataAccess": "Få adgang til dataene",
   "linkDataAccess": "https://europa.eu/eurobarometer/api/deliverable/download/file?deliverableId=88722",
-  "textCountryClick": "Klik for mere info"
+  "textCountryClick": "Klik for mere information"
 }

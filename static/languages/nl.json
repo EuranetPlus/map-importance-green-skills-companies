@@ -1,12 +1,12 @@
 {
-  "heading": "Wordt het Europese MKB geconfronteerd met een tekort aan groene vaardigheden?",
-  "subheading": "39% van de ondervraagde kleine en middelgrote ondernemingen (kmo's) in de EU is het ermee eens dat tekorten aan vaardigheden hun bedrijf belemmeren bij het vergroenen van hun activiteiten.",
+  "heading": "Hebben Europese MKB-bedrijven te maken met een tekort aan groene vaardigheden?",
+  "subheading": "39% van de ondervraagde kleine en middelgrote ondernemingen (KMO's) in de EU is het erover eens dat een tekort aan vaardigheden hun bedrijf belemmert bij het vergroenen van hun activiteiten.",
   "legend1": "Geen gegevens beschikbaar",
-  "tooltip1": "van het geïnterviewde MKB",
+  "tooltip1": "van geïnterviewde MKB-bedrijven",
   "textSourceDescription": "Bron",
-  "textSource": "Flits-Eurobarometer 529",
+  "textSource": "Flash Eurobarometer 529",
   "textNoteDescription": "Opmerking",
-  "textNote": "Het veldwerk werd uitgevoerd via telefonische interviews van 5 april tot 24 mei 2023. Er werden 12 909 interviews afgenomen. Er werd een representatieve steekproef van bedrijven geselecteerd.",
+  "textNote": "Het veldwerk werd uitgevoerd via telefonische interviews van 4 mei tot 24 mei 2023. Er werden 12.909 interviews afgenomen. Er werd een representatieve steekproef van bedrijven geselecteerd.",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://europa.eu/eurobarometer/api/deliverable/download/file?deliverableId=88722",
   "textCountryClick": "Klik voor meer informatie"

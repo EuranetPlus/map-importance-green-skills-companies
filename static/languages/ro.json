@@ -1,13 +1,13 @@
 {
   "heading": "Se confruntă IMM-urile europene cu o lipsă de competențe ecologice?",
-  "subheading": "39% dintre întreprinderile mici și mijlocii (IMM-uri) chestionate din UE sunt de acord că deficitul de competențe le împiedică activitatea în ceea ce privește ecologizarea activităților lor.",
-  "legend1": "Nici o informatie disponibila",
-  "tooltip1": "a IMM-ului intervievat",
+  "subheading": "39% dintre întreprinderile mici și mijlocii (IMM-urile) chestionate în UE sunt de acord că deficitul de competențe le împiedică să își ecologizeze activitățile.",
+  "legend1": "Nu sunt disponibile date",
+  "tooltip1": "din IMM-urile intervievate",
   "textSourceDescription": "Sursă",
-  "textSource": "Flash Eurobarometru 529",
-  "textNoteDescription": "Notă",
-  "textNote": "Lucrările de teren au fost realizate prin interviuri telefonice în perioada 4/5 - 24/5/2023, au fost realizate 12 909 interviuri. A fost selectat un eșantion reprezentativ de afaceri.",
+  "textSource": "Eurobarometru Flash 529",
+  "textNoteDescription": "Nota",
+  "textNote": "Munca de teren a fost realizată prin interviuri telefonice în perioada 4/5 - 24/5/2023, fiind realizate 12 909 interviuri. A fost selectat un eșantion reprezentativ de afaceri.",
   "textDataAccess": "Accesați datele",
   "linkDataAccess": "https://europa.eu/eurobarometer/api/deliverable/download/file?deliverableId=88722",
-  "textCountryClick": "Click pentru mai multe informații"
+  "textCountryClick": "Faceți clic pentru mai multe informații"
 }

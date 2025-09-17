@@ -1,13 +1,13 @@
 {
-  "heading": "An bhfuil ganntanas scileanna glasa roimh FBManna Eorpacha?",
-  "subheading": "Aontaíonn 39% de na fiontair bheaga agus mheánmhéide (FBManna) a ndearnadh suirbhé orthu san AE go bhfuil ganntanas scileanna ag cur bac ar a ngnó maidir le glasú a gcuid gníomhaíochtaí.",
+  "heading": "An bhfuil ganntanas scileanna glasa ag FBManna Eorpacha?",
+  "subheading": "Aontaíonn 39% de na fiontair bheaga agus mheánmhéide (FBManna) a ndearnadh suirbhé orthu san AE go bhfuil ganntanas scileanna ag cur bac ar a ngnó ó thaobh a ngníomhaíochtaí a dhéanamh níos glaise.",
   "legend1": "Níl aon sonraí ar fáil",
-  "tooltip1": "de GBM a cuireadh faoi agallamh",
+  "tooltip1": "de FBManna a ndearnadh agallamh leo",
   "textSourceDescription": "Foinse",
-  "textSource": "Flash Eorabharaiméadair 529",
+  "textSource": "Eorabharaiméadar Flash 529",
   "textNoteDescription": "Nóta",
-  "textNote": "Rinneadh obair allamuigh trí agallaimh teileafóin ó 4/5 go 24/5/2023, rinneadh 12 909 agallamh. Roghnaíodh sampla ionadaíoch gnó.",
-  "textDataAccess": "Faigh rochtain ar na sonraí",
+  "textNote": "Rinneadh an obair allamuigh trí agallaimh teileafóin ó 4/5 go 24/5/2023, agus rinneadh 12,909 agallamh. Roghnaíodh sampla ionadaíoch de ghnólachtaí.",
+  "textDataAccess": "Rochtain ar na sonraí",
   "linkDataAccess": "https://europa.eu/eurobarometer/api/deliverable/download/file?deliverableId=88722",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Sind europäische KMU mit einem Mangel an grünen Kompetenzen konfrontiert?",
+  "heading": "Leiden europäische KMU unter einem Mangel an grünen Kompetenzen?",
   "subheading": "39 % der in der EU befragten kleinen und mittleren Unternehmen (KMU) stimmen zu, dass der Fachkräftemangel ihr Unternehmen bei der Ökologisierung ihrer Aktivitäten behindert.",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "der befragten KMU",
   "textSourceDescription": "Quelle",
   "textSource": "Flash-Eurobarometer 529",
   "textNoteDescription": "Notiz",
-  "textNote": "Die Feldforschung wurde vom 04.05. bis 24.05.2023 mittels Telefoninterviews durchgeführt, es wurden 12.909 Interviews geführt. Es wurde eine repräsentative Stichprobe von Unternehmen ausgewählt.",
-  "textDataAccess": "Greifen Sie auf die Daten zu",
+  "textNote": "Die Feldforschung wurde vom 4.5. bis 24.5.2023 mittels Telefoninterviews durchgeführt. Es wurden 12.909 Interviews geführt. Es wurde eine repräsentative Stichprobe von Unternehmen ausgewählt.",
+  "textDataAccess": "Zugriff auf die Daten",
   "linkDataAccess": "https://europa.eu/eurobarometer/api/deliverable/download/file?deliverableId=88722",
-  "textCountryClick": "Klicken Sie für weitere Informationen"
+  "textCountryClick": "Klicken Sie hier für weitere Informationen"
 }
